@@ -1,0 +1,14 @@
+{
+  "name": "modbus",
+  "version": "1.0.0",
+  "description": "modbus rtu via tcp (WWTP Indofood)",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "chotoni",
+  "license": "ISC",
+  "dependencies": {
+    "modbus-serial": "^8.0.3"
+  }
+}
