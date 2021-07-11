@@ -9,6 +9,7 @@
   "author": "chotoni",
   "license": "ISC",
   "dependencies": {
-    "modbus-serial": "^8.0.3"
+    "modbus-serial": "^8.0.3",
+    "pg": "^8.6.0"
   }
 }
